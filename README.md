@@ -1,3 +1,1 @@
-# ucsd_master
-courses projects from ucsd master cohort 7
-pytorch torchvision torchaudio 
+this contains list of mini projects using different pacakages and ML modeling techniques. 
